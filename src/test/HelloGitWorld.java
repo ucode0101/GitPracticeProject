@@ -14,6 +14,8 @@ public class HelloGitWorld {
         // added this comment in GitHub
 
         System.out.println("Hello git and github");
+        System.out.println("Hello git and github");
+        System.out.println("Hello git and github");
 
     }
 }
