@@ -22,7 +22,5 @@ public class HelloGitWorld {
         System.out.println("Hello git and github");
 
         System.out.println("Hello there");
-        System.out.println("Hello changes");
-
     }
 }
