@@ -15,5 +15,8 @@ public class HelloGitWorld {
 
         System.out.println("Added this line in intelliJ");
         System.out.println("Hello git and github");
+
+        System.out.println("Added this line in intelliJ");
+        System.out.println("Hello git and github");
     }
 }
