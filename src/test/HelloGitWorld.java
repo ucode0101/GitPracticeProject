@@ -13,5 +13,7 @@ public class HelloGitWorld {
         System.out.println("Hello git push");
         // added this comment in GitHub
 
+        System.out.println("Hello git and github");
+
     }
 }
