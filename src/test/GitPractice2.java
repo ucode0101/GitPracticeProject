@@ -5,6 +5,10 @@ public class GitPractice2 {
         System.out.println("hello there");
         System.out.println("hello there");
         System.out.println("hello there");
+        System.out.println("hello there");
+        System.out.println("hello there");
+        System.out.println("hello there");
+         System.out.println("hello there");
         
     }
 }
